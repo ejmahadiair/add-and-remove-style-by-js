@@ -1,0 +1,9 @@
+.add {
+    color: red !important;
+    visibility: visible;
+}
+
+.remove {
+    color: transparent;
+    visibility: hidden;
+}
